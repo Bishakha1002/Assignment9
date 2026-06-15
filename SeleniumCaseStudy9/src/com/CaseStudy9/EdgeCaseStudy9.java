@@ -75,14 +75,14 @@ public class EdgeCaseStudy9 {
 
         Object[][] data = new Object[3][2];
 
-        data[0][0] = "raghubn@gmail.com";
-        data[0][1] = "raghubn";
+        data[0][0] = "nehabharti@gmail.com";
+        data[0][1] = "neh@";
 
-        data[1][0] = "9880614548";
-        data[1][1] = "raghubn@123";
+        data[1][0] = "bhartijha@gmail.com";
+        data[1][1] = "bh@rti";
 
-        data[2][0] = "Wiprotechnologies";
-        data[2][1] = "1234567890";
+        data[2][0] = "bishakhabharti@gmail.com";
+        data[2][1] = "bish@kh@";
 
         return data;
     }
